@@ -1,0 +1,44 @@
+.profile_info_wrapper {
+  width: 75%;
+  margin: 16% 7%;
+}
+.divider {
+  height: 50px;
+  width: 1px;
+  background-color: gray;
+}
+.sendmessagebtn {
+  width: 100%;
+  border-radius: 10px;
+  border: 1px solid gray;
+  font-style: normal;
+  font-weight: 500;
+  margin-top: 60px;
+  font-size: 14px;
+  padding: 8px 10px;
+  /* identical to box height, or 20px */
+
+  color: #242831;
+}
+.files_wrapper {
+  background: var(--background-color);
+  justify-content: space-around;
+  padding: 18px 15px;
+  width: 71%;
+  margin-bottom: 7px;
+}
+.filename {
+  font-family: "Source Serif 4";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+}
+.headingsection {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  /* or 22px */
+
+  color: #242831;
+}
